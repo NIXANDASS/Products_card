@@ -26,7 +26,7 @@ button {
   width: 100px;
   align-items: end;
   height: 45px;
-  background-color: #af4c4c;
+  background-color:rgb(4, 123, 213);
   color: white;
   border: 1px solid black;
   border-radius: 50px;
@@ -35,7 +35,7 @@ button {
 }
 
 button:hover {
-  background-color: yellowgreen;
+  background-color:red;
 }
 
 .price {
@@ -48,11 +48,11 @@ button:hover {
   width: 250px;
   height: 450px;
   padding: 25px;
-  border: 3px solid orange;
-  background-color:bisque;
+  border: 2px solid rgb(4, 123, 213);
+  background-color:rgba(255, 228, 196, 0.438);
   margin: 25px;
   border-radius: 10px;
-  box-shadow: 10px 20px 30px rgba(255, 149, 1, 0.5);
+  box-shadow: 10px 20px 30px rgba(0, 0, 0, 0.5);
   transition: transform 0.3s ease;
   display: flex;
   flex-direction: column;
